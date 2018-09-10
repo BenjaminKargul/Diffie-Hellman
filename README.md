@@ -2,8 +2,7 @@
 ### CS 5490/6490: Network Security – Fall 2017  
 ### Programming Assignment 2  
 ### Due by 11:59 PM MT, Friday September 15th 2017  
-Wrrote a program in Java called EXPO, to efficiently
-exponentiate big numbers modulo n. This is accomplished by taking three positive numbers as input, one representing the number
+Wrote a program in Java called EXPO, to efficiently exponentiate big numbers modulo n. This is accomplished by taking three positive numbers as input, one representing the number
 m, another representing the exponent d to which m is raised to and the third being n otherwise known as modular exponentiation.  
 Wrote client-server programs in Java using TCP sockets where the client (Alice) and the server (Bob) perform a Diffie Hellman exchange.  
 Used EXPO to compute the Diffie Hellman numbers:   
