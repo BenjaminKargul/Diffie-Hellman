@@ -1,0 +1,5 @@
+g = 1907, p = 784313, Sb = 12067
+Calculated Tb = 421604
+Alice: Connected
+Alice: Ta = 321320
+Calculated Ts = 154999

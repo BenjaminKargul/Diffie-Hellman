@@ -1,0 +1,5 @@
+g = 1907, p = 784313, Sa = 160011
+Calculated Ta = 321320
+Bob: Connected
+Bob: Tb = 421604
+Calculated Ts = 154999
