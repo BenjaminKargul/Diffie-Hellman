@@ -5,6 +5,7 @@
 Wrote a program in Java called EXPO, to efficiently exponentiate big numbers modulo n. This is accomplished through modular exponentiation.  
 
 Wrote client-server programs in Java using TCP sockets where the client (Alice) and the server (Bob) perform a Diffie Hellman exchange.  
+
 Used EXPO to compute the Diffie Hellman numbers:   
 Let g = 1907, p = 784313, SA = 160011 (Alice’s secret), and SB = 12067 (Bob’s secret).  
 
