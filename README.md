@@ -1,6 +1,6 @@
 # Diffie-Hellman
-## CS 5490/6490: Network Security – Fall 2017  
-## Programming Assignment 2  
+### CS 5490/6490: Network Security – Fall 2017  
+### Programming Assignment 2  
 ### Due by 11:59 PM MT, Friday September 15th 2017  
 Write a program (in C, C++, C#, Python, or Java), call it EXPO, to efficiently
 exponentiate big numbers modulo n as described in Section 6.3.4.1 of your textbook.  
